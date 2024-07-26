@@ -1,1 +1,1 @@
-g4f:latest registry.cn-hangzhou.aliyuncs.com/hlohaus789/g4f:latest
+g4f:latest registry.cn-hangzhou.aliyuncs.com/vbplay/g4f:latest
